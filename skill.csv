@@ -1,9 +1,2 @@
-id,name,description,type,expclass ,specialrate ,eventtype,eventttriger,eventvalue,rate,cooldown,useraction,userparticle,target1type,target1num,target1action,target1particle,target1effecttype,target1effectvalue,target2type ,target2num ,target2action ,target2particle ,target2effecttype ,target2effectvalue
-1001,SKILL_NAME_1,SKILL_DESC_1,trait,fast,1,attack_after,self,0,0.5,1,slash,,eventtarget,0,beattacked,,hpminor,5,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
+id,icon,name,description,type,effect_type,rarity ,max_cast_rate,cooldown,energy,event_id,event_trigger,action,param
+1001,soul.png,SKILL_NAME_1001,SKILL_DESC_1001,attack,physic,common,0.5,1,0,defense,ally_except_me,assist_attack,"strength,1"
