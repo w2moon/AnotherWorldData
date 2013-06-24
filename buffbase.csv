@@ -1,3 +1,4 @@
 id,icon,name,description,type,multiple,stack,duration,interval,startlogic,startvalue,startaction,startparticle,intervallogic,intervalvalue,intervalaction,intervalparticle,endlogic,endvalue,endaction,endparticle
 2000,soul.png,BUFFER_NAME_2000,BUFFER_DESC_2000,0,0,1,1,-1,incDisabled,1,,,,,,,decDisabled,1,,
+2001,soul.png,BUFFER_NAME_2001,BUFFER_DESC_2000,0,0,1,3,-1,incSkillDisabled,1,,,,,,,decSkillDisabled,1,,
 5000,soul.png,BUFFER_NAME_5000,BUFFER_DESC_5000,1,0,1,0,-1,decModifierDamagePercent,0.5,,,,,,,incModifierDamagePercent,0.5,,
