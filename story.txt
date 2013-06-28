@@ -1,0 +1,9 @@
+conquer another world
+
+black screen->snow flower->msg(you are choosed to battle in anotherworld as the earth's troop,go now.cancel or ok)
+->(cancel is illegal,ok)->spiral screen->enter;
+
+invasion other world,you are one of the team leader.your goal is conquer all the world.
+
+all that can buy in shop is item from earth,eg.guns,armor,etc.
+use money to get creature from god.
