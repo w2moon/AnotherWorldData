@@ -2,12 +2,12 @@
 
 attack:
 physic str,con
-air str,int,dex,cha
-earth str,int,dex,cha
-water str,int,dex,cha
-fire str,int,dex,cha
-life str,int,dex,cha
-death str,int,dex,cha
+air str,int,dex,cha    ->speed
+earth str,int,dex,cha  ->defense
+water str,int,dex,cha  ->control
+fire str,int,dex,cha   ->fire
+life str,int,dex,cha   ->heal
+death str,int,dex,cha  ->rebirth
 -------------130*3*(buffernum+1)
 1hit 6*4+2 one,6*4+2 all,6*4+2 hero 78
 2hit 6*4+2 random 26
