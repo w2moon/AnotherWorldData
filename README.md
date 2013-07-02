@@ -1,3 +1,41 @@
+/////////////////////
+pro:
+     con->defense
+     int->magic
+     str->physic
+
+race:
+     human physic,fire,water,air,earth,death,life  ,junior
+     elf life,water,air master
+     dwarf fire,earth,life master
+     undead death,fire,air master
+     dragon fire,water,air,earth master
+     orc physic,earth master
+     god fire,water,air,earth,death,life master
+     demon fire,water,air,earth,death,life master
+
+physic damage can be add magic effect by weapons.
+armor can defense magic or physic damage,or immue to some magic.
+trinket can enhance player's trait,got by achieve achievement.
+
+all normal attack is physic
+
+physic:1,all,multi,hero.defense.add physic buff bleed.
+
+magic:every magic have attack 1,all,multi,hero.defense,minor damage,immue damage.add buff.
+     fire->add burn buff,add crit buff
+     water->add purge buff,add duplicate
+     air->lighting damage,add sleep buff.
+     earth->big one hit damage.. 
+     life->add heal buff,add energy,add pro add buff,special damage to undead
+     death->switch buff,give buff to other,add fear buff,add confusion buff,add sub pro buff,special heal to undead
+
+battlefield:
+sandstorm all be damaged each turn
+rain inc water,dec fire small medium big :10 30 50 30level 10-no cost levelup + 5 15% 35-cost money levelup + 10 45% 75-cost huge,damage reduce max 50%
+burning inc fire,dec water
+sunny inc life
+night inc death
 
 
 attack:
