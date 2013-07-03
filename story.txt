@@ -3,7 +3,61 @@ conquer another world
 black screen->snow flower->msg(you are choosed to battle in anotherworld as the earth's troop,go now.cancel or ok)
 ->(cancel is illegal,ok)->spiral screen->enter;
 
-invasion other world,you are one of the team leader.your goal is conquer all the world.
+invasion other world,you are one of the team leader.your goal is to conquer all the world.
 
 all that can buy in shop is item from earth,eg.guns,armor,etc.
 use money to get creature from god.
+
+portal base
+(train stage)
+
+lava hill dwarf
+
+song forest elf
+
+dark cemetry undead
+
+cao yuan orc
+
+golden kindom human
+
+there is a percent view on the map to indicate the land percent be conquared.
+
+when attack a region,you will get a title give you a skill,title can be equiped to give you a passive skill.
+and title can be upgrade?or just one level?
+
+trinket only can be made by pvp reward.
+
+weapon,armor 
+
+or some from noraml task.
+
+invite friends will get reward ,1,2,3,5
+
+can be saved to photoablumn as head pic.
+
+region reward will be displayed on screen
+
+animal 
+wolf
+mouse
+cat
+dog
+snake
+elephon
+bear
+
+go through again a region can upgrade the title of it.
+and you need to reach the level to upgrade it.
+
+every region give you 3 blueprint
+
+use blueprint to make set equip
+and blueprint can make player to gather materia,to pvp or to conquer
+
+duiwu,duanzao,pvp,shangdian,tujian
+
+duiwu:
+
+shangdian:
+get slave body

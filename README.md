@@ -5,7 +5,8 @@ pro:
      str->physic
 
 race:
-     human physic,fire,water,air,earth,death,life  ,junior
+     human physic,fire,water,air,earth,death,life   
+     animal physic
      elf life,water,air master
      dwarf fire,earth,life master
      undead death,fire,air master
@@ -14,6 +15,7 @@ race:
      god fire,water,air,earth,death,life master
      demon fire,water,air,earth,death,life master
 
+weapon give you normal attack ability
 physic damage can be add magic effect by weapons.
 armor can defense magic or physic damage,or immue to some magic.
 trinket can enhance player's trait,got by achieve achievement.
