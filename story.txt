@@ -57,7 +57,39 @@ and blueprint can make player to gather materia,to pvp or to conquer
 
 duiwu,duanzao,pvp,shangdian,tujian
 
-duiwu:
+login:
+direct enter
+account
 
-shangdian:
-get slave body
+main:
+level,exp,event,event like a region will give you trinket or slave on the end. event name,rank,time
+region,region percent,region level ,region level affect title effect.
+first select main attack region,when conqured the region aside it will be unlocked
+one player token on the map to indicate last played region
+
+region:
+a token map,when conqured,can trigger tiaozhan anniu,to re conqure this to level up this region.region can give you gold,every day.and has slave limit.
+has a btn to back.
+
+duiwu:
+team(huan ling hun,huan zhuangbei)
+soul hai yao you trait
+equip
+slave dian kai ke yi kan deng ji.zhan dou ke yi de jing yan.
+
+hecheng:
+equip:suo you lan tu xian shi zai limian,dian cai liao hui gao zhi chuchu
+slave
+
+shichang:
+nuli:get slave body,te shu nu li bao(xian shi),suinulifuzeng liwu(ti li bu man ,sui ji cailiao deng)
+jiudian:add tili
+shangdian:suijicailiao shuaxin
+
+jingjichang:
+da pai ming,will give reward ervery day.reward is  material to make equip.
+
+tujian:
+total,race,num/totalnum
+diankai->compose grapha
+
