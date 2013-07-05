@@ -88,8 +88,81 @@ shangdian:suijicailiao shuaxin
 
 jingjichang:
 da pai ming,will give reward ervery day.reward is  material to make equip.
+shi jie pai ming:guding hai hang bang
+
+huodong: pvp jifen,
 
 tujian:
 total,race,num/totalnum
 diankai->compose grapha
+
+---------------------------------------------------------------------------
+hp,attack,defense,heal
+
+attack pro:physic,air,earth,water,fire,life,death
+defense pro:
+
+jineng fangan:
+gongji:
+1,all,multi
+melee,range(view)
+
+defense:
+1,all
+
+heal:
+1,all
+
+teshu:
+jing hua
+qu san
+
+zhuangtai: 1statck 5stack
+shuxing zeng jia,
+shuxing jian shao,
+chixu diao xue
+chixu jia xue
+sleep
+dizzy
+shield
+immune
+shieldstack
+shieldsuck
+crit
+dodge
+parry
+guard
+counter
+assist_attack
+assist_heal
+instant_kill
+genxing
+beida
+gongjihou
+
+tianqi:
+burning
+rain
+sandstorm
+sunny
+night
+
+event:
+battle_start
+beattacked
+attack
+behealed
+heal
+damaged
+crited
+dodged
+parryed
+
+xi neng li zhi jian
+
+hao you quan ,tuan dui pvp xi tong
+hao you jian de dui zhan geng rong yi ji qi chou hen.
+
+
+
 
