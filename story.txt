@@ -163,6 +163,15 @@ xi neng li zhi jian
 hao you quan ,tuan dui pvp xi tong
 hao you jian de dui zhan geng rong yi ji qi chou hen.
 
+ji neng zhi ye
+
+
+weapon action skill,add pro attack,heal
+cloth add pro defense,hp
+trinket passive skill,add random pro
+soul energy skill
+     profession -> passive skill
+
 
 
 
