@@ -1,0 +1,3 @@
+id,icon,avatar,profession,name,desc,race,rarityclass,elemtype,skillid,MaxHP,Attack,Defense,Heal,Speed,Dodge,Crit
+1,soul.png,head.png,0,soul1,description soul1,0,0,0,3000,100,2,1,1,1,0,0
+2,soul.png,head.png,0,soul2,description soul2,0,0,0,3000,100,2,1,1,1,0,0
