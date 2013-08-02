@@ -1,4 +1,4 @@
-level,exp,maxhp,maxsoulnum,maxequipnum,maxtravellernum
+id,exp,maxhp,maxsoulnum,maxequipnum,maxtravellernum
 1,70,10,50,50,50
 2,132,10,50,50,50
 3,214,10,50,50,50
@@ -9,7 +9,7 @@ level,exp,maxhp,maxsoulnum,maxequipnum,maxtravellernum
 8,924,10,50,50,50
 9,1126,10,50,50,50
 10,1348,10,50,50,50
-11,1590,10,50,ss,50
+11,1590,10,50,50,50
 12,1852,10,50,50,50
 13,2134,10,50,50,50
 14,2436,10,50,50,50
