@@ -1,2 +1,2 @@
-id,name,desc,copper
-1,MATERIAL_NAME1,MATERIAL_DESC1,1
+id,icon,name,desc,copper
+1,soul.png,MATERIAL_NAME1,MATERIAL_DESC1,1
