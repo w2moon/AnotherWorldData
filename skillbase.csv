@@ -21,7 +21,7 @@ id,icon,name,description,profession_class,type,effect_type,rarity ,max_cast_rate
 3001,soul.png,SKILL_NAME_3001,SKILL_DESC_3001,0,attack,physic,uncommon,10,5,0,action,self,"self,alive,1;enemy,alive,1;",add_buffer,"enemy,4000,particles/taken-gem.plist,1"
 3002,soul.png,SKILL_NAME_3002,SKILL_DESC_3002,0,attack,physic,common,10,1,0,action,self,"self,alive,1;enemy,alive,1;",multi_attack,"enemy,2,Attack,1.5,particles/taken-gem.plist,particles/taken-gem.plist"
 3003,soul.png,SKILL_NAME_3003,SKILL_DESC_3003,0,buffer,physic,uncommon,10,5,0,action,self,"self,alive,1;enemy,alive,1;",add_buffer,"enemy,2000,particles/taken-gem.plist,1"
-3004,soul.png,SKILL_NAME_3004,SKILL_DESC_3004,0,attack,physic,common,10,1,0,action,self,"self,alive,1;enemy,alive,1;",shoot,"5,3,boarder_left.png,particles/taken-gem.plist,particles/taken-gem.plist,line,Attack,0.9,0.4"
+3004,soul.png,SKILL_NAME_3004,SKILL_DESC_3004,0,attack,physic,common,10,5,0,action,self,"self,alive,1;enemy,alive,1;",shoot,"5,3,boarder_left.png,particles/taken-gem.plist,particles/taken-gem.plist,line,Attack,0.9,0.4"
 3005,soul.png,SKILL_NAME_3005,SKILL_DESC_3005,0,attack,magic,common,10,1,0,action,self,"self,alive,1;enemy,alive,1;",normal_magic,"enemy,-1,Attack,0.9,particles/taken-gem.plist,particles/taken-gem.plist"
 3006,soul.png,SKILL_NAME_3006,SKILL_DESC_3006,0,buffer,physic,uncommon,10,5,0,action,self,"self,alive,1;enemy,alive,1;",add_buffer,"enemy,4001,particles/taken-gem.plist,1"
 3007,soul.png,SKILL_NAME_3007,SKILL_DESC_3007,0,buffer,physic,uncommon,10,5,0,action,self,"self,alive,1;enemy,alive,1;",add_buffer,"enemy,1005,particles/taken-gem.plist,1,particles/taken-gem.plist"
