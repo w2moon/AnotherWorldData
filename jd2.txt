@@ -1,0 +1,14 @@
+jd2
+
+ui:
+start
+world map,can slide to change region,has btn:make,box,talent,shop  task,achieve
+complete task to get exp and gold,to level up to unlock region
+consume hp to get rock
+
+get friend to unlock or make speical necklace
+hao you cheng hao pai ming,zui gao jia zhi xiang lian,send hp to friend
+
+ability:
+4 to special
+5 to super
