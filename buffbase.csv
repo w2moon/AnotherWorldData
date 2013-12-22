@@ -15,4 +15,4 @@ id,icon,name,description,type,multiple,stack,duration,interval,startlogic,startp
 5001,soul.png,BUFFER_NAME_5001,BUFFER_DESC_5001,1,0,1,-1,-1,"incExtraProperty,Dodge,0.5;",Dodge,0.3,,,,,,,,"decExtraProperty,Dodge,0.5;",Dodge,0.3,,
 5002,soul.png,BUFFER_NAME_5002,BUFFER_DESC_5002,1,0,1,-1,-1,"incRateProperty,Defense,0.5;",Dodge,0.3,,,,,,,,"decRateProperty,Defense,0.5;",Dodge,0.3,,
 5003,soul.png,BUFFER_NAME_5003,BUFFER_DESC_5003,1,0,1,-1,-1,"decModifierDamagePercent,0.5;",Dodge,0.3,,,,,,,,"incModifierDamagePercent,0.5;",Dodge,0.3,,
-5004,soul.png,BUFFER_NAME_5004,BUFFER_DESC_5004,1,0,1,-1,-1,"incExtraProperty,Dodge,0.5;",Dodge,0.3,,,,,,,,"decExtraProperty,Dodge,0.5;",Dodge,0.3,,
+5004,soul.png,BUFFER_NAME_5004,BUFFER_DESC_5004,1,0,1,2,-1,"incExtraProperty,Dodge,0.5;",Dodge,0.3,,0.05#2#true#anim/levelup2/;1;14,,,,,,"decExtraProperty,Dodge,0.5;",Dodge,0.3,,
